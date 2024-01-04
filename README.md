@@ -1,15 +1,16 @@
-# PROJECT AKHIR - SQLITE DATABASE CONNECT WITH PYTHON
-![thumbnail_github_VII](https://github.com/Dimaspermana293/latihan-github-baru/assets/97396687/dc632504-98e3-4fdd-a99a-79cd9accd5ec)
+# PROJECT AKHIR - CONNECT SQLITE DATABASE WITH PYTHON
+![thumbnail project github (1)](https://github.com/Dimaspermana293/latihan-github-baru-banget/assets/97396687/a51b4abe-cd36-4374-bbf9-d7eb5aea40c9)
+
 ## Identitas
 - **Nama:** DIMAS PERMANA
 - **NPM:** 5200411293
-- **Kelas:** ALGORITMA PEMROGRAMAN PRAKTIK VII
+- **Kelas:** ALGORITMA PEMROGRAMAN PRAKTIK V
 
 ## Spesifikasi Proyek
 - **Bahasa:** Python
 - **Database:** SQLite
-  - **Nama database:** db_hewan.db
-  - **Nama tabel:** HEWAN
+  - **Nama database:** database_fauna.db
+  - **Nama tabel:** FAUNA
 
 ## Tools
 - Visual Studio Code
